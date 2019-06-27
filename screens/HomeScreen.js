@@ -33,7 +33,7 @@ class vistaInicio extends React.Component {
                   />
                   <Card.Cover source={{ uri: 'https://picsum.photos/700' }} />
                   <Card.Content>
-                        <Title>Card title</Title>
+                        <Title>WEA</Title>
                         <Paragraph>Card content</Paragraph>
                   </Card.Content>
                   <Card.Actions>
