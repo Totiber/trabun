@@ -1,7 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-        //buildToolsVersion = "29.0.1"
+        buildToolsVersion = "28.0.3"
     // ext {
     //     buildToolsVersion = "28.0.3"
     //     minSdkVersion = 16
@@ -15,9 +15,9 @@ buildscript {
         compileSdkVersion   = 28
         targetSdkVersion    = 28
         minSdkVersion = 16
-        buildToolsVersion = "29.0.1"
+        buildToolsVersion = "28.0.3"
         supportLibVersion   = "28.0.0"
-        googlePlayServicesVersion = "49" // or set latest version
+        googlePlayServicesVersion = "16.1.0" // or set latest version
         androidMapsUtilsVersion = "0.5+"
     }
     repositories {
